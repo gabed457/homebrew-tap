@@ -1,8 +1,8 @@
 class Bx < Formula
   desc "Terminal-first CLI for executing Bruno API collections"
   homepage "https://github.com/gabed457/bx"
-  url "https://github.com/gabed457/bx/releases/download/v0.1.0/bx-0.1.0.tar.gz"
-  sha256 "a899ed5bfa24837928025bf41b761c76662add9ffcf8dce8cf44c5645422ce07"
+  url "https://github.com/gabed457/bx/releases/download/v0.1.1/bx-0.1.1.tar.gz"
+  sha256 "7f4456ca2fd8100485a0b010273c1ba82741706ca8cb66e71eb5bf181c20c674"
   license "MIT"
 
   def install
